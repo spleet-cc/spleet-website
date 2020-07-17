@@ -1,2 +1,2 @@
 # spleet-website
-spleet development
+spleet website development
